@@ -15,8 +15,6 @@ on:
   pull_request:
   merge_group:
     branches: ["main"]
-  schedule:
-    - cron: "13 20 * * *"
   push:
     branches: ["main"]
 
