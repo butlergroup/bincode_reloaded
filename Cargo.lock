@@ -75,10 +75,10 @@ dependencies = [
 
 [[package]]
 name = "bincode_reloaded"
-version = "3.1.31"
+version = "3.1.32"
 dependencies = [
  "bincode",
- "bincode_reloaded_derive 3.1.31",
+ "bincode_reloaded_derive 3.1.32",
  "bumpalo",
  "chrono",
  "criterion",
@@ -114,7 +114,7 @@ dependencies = [
 
 [[package]]
 name = "bincode_reloaded_derive"
-version = "3.1.31"
+version = "3.1.32"
 dependencies = [
  "virtue",
 ]
@@ -815,9 +815,9 @@ checksum = "7dbe8d477efbc6c70a1dea1f9f1e0482168983a9147dee6b3a619f666f3aeac6"
 
 [[package]]
 name = "uuid"
-version = "1.26.1"
+version = "1.29.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "2ef6dac1e96601b4fb3acccccff2139741fcb757cb9a36089bf5be91cfb285ce"
+checksum = "3c14b15dffa2f4bd712103e857140aa04a4f2ff6e955c77d7eb8e53ee02a3b64"
 dependencies = [
  "js-sys",
  "serde_core",
