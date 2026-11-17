@@ -7,6 +7,7 @@ authors = [
     "Chris Butler <chris.butler@butlergroup.net>",
 ]
 edition = "2024"
+rust-version = "1.86.0"
 
 repository = "https://github.com/butlergroup/bincode_reloaded"
 documentation = "https://docs.rs/bincode_reloaded_derive"
